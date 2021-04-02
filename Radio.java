@@ -47,6 +47,7 @@ public class Radio{
 		Select day = new Select(driver.findElement(By.id("select-demo")));
 		 day.selectByVisibleText("Monday");
 		 System.out.println("print it out");*/
+			system.out.println("hello");
 }
 }
 		
